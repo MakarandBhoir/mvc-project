@@ -8,8 +8,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+<<<<<<< HEAD
     <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
     <PackageReference Include="NLog" Version="4.7.0" />
+=======
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+>>>>>>> 719e342791c1ac02c4190e0966c0435c737a5621
     <PackageReference Include="System.Text.Encodings.Web" Version="4.5.0" />
   </ItemGroup>
 
